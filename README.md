@@ -2,7 +2,7 @@
 # Old CTFs
 Some that aren't too big, or require much configuration are saved here. 
 
-Latest release: 
+Latest release: https://github.com/buhacknight/ctfs/releases/download/v1.0/old_ctfs_buhacknight.tar.gz
 
 Included:
 
