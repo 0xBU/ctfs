@@ -1,0 +1,3 @@
+We found a simple web page[1] that seems to want us to authenticate, but we can't figure out how... can you? 
+
+[1]https://2013.picoctf.com/problems/php2/

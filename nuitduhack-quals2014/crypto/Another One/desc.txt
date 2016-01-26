@@ -1,0 +1,7 @@
+Another One Validated
+This is a crypted image, you must extract the data.
+
+Score
+300
+Link
+http://static.nuitduhack.com/crypted.bmp

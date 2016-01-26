@@ -1,0 +1,5 @@
+Mr Anderson
+(trv80, solved by 92)
+
+
+Description: What is the favorite music artist of the last hacker serie? (without spaces)

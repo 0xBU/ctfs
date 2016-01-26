@@ -1,0 +1,7 @@
+Patch me
+(rev50, solved by 103)
+
+
+Description: Find a way to read the corrupted image!
+
+Attachment: rev50.zip

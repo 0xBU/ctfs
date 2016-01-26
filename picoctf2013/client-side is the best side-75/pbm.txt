@@ -1,0 +1,6 @@
+Luckily the ship has a web-based authentication system[1]! Hmm…even though you don't know the password, I bet you can still get in!
+
+Hint: First rule of web hacking: always read the page source 
+
+[1]https://2013.picoctf.com/problems/clientside.html
+

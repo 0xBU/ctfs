@@ -1,0 +1,7 @@
+Blocking truck
+(trv100, solved by 110)
+
+
+Description: There is a blue truck blocking the event entrance, can you tell us what is the URL to contact them (as it can be seen)?
+
+

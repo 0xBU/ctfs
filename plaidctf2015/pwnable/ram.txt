@@ -1,0 +1,6 @@
+RAM
+Pwnable (170 pts)
+Hree is a ctue lttile selhlcdoe 
+challenge [permute_33e624400463108ac96b45bc6158fa54.py] (old version [permute_30b51ae3e1ce42cf57462073236b3a85.py]).
+
+Server: 52.4.108.221 port 4444

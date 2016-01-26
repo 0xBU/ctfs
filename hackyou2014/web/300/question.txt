@@ -1,0 +1,7 @@
+Web
+300AngryBird
+Author: Daniel Sadyrin (cyberguru)
+Some web-developers still host their sites on Windows platform, and think that it is secure enough
+
+http://hackyou2014tasks.ctf.su:30080
+UPD after end: service source code (http://hackyou.ctf.su/files/disclosure/web300.rar)

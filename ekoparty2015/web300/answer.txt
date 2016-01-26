@@ -1,0 +1,1 @@
+Not finished -- a local copy of an emulator with the addition of the XOR instruction saved here.

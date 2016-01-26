@@ -1,0 +1,3 @@
+Just feed the input back into the same algorithm. That can't have been the intended solution? 
+
+EKO{unshifting_the_unshiftable}

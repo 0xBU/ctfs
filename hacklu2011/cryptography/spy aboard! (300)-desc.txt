@@ -1,0 +1,9 @@
+Spy Aboard!
+
+We have a spy aboard! For around 5 minutes ago we intercepted an encrypted transmission to an enemy outpost. 
+It seems like we interrupted the mole in the act because we found an open transmission program on our terminals. 
+We are 100% sure that he sent the position of our fleet to the outpost to plan an attack against us. Our position 
+due the transmission was: position: Harcon System , Planet Crematoria , x: 129.23432231423 
+degrees y: 111.13442353423 degrees , z: 100,13142234423 degrees We need the spies 
+autorization code to prevent this attack. You as our crypto expert you have to find it! The survival 
+of 10000 brave men, women and children depends on you!!! GOOD LUCK!

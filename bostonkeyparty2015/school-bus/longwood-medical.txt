@@ -1,0 +1,7 @@
+Longwood Medical
+green : 25
+
+Because we dont trust mysqli_real_escape_string, we wrote our own military-grade sanitization method.
+
+http://52.10.107.64:8005
+

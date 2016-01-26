@@ -1,0 +1,7 @@
+The book has instructions on how to dump the corrupted configuration file from the robot's memory. You find a corrupted XML[1] file and are looking for a configuration key.
+Hint: What is a file[2]? What is XML[3]? 
+
+[1]https://2013.picoctf.com/autoproblems/tmp3in8Cm.xml
+[2]http://en.wikipedia.org/wiki/Computer_file
+[3]http://www.ibm.com/developerworks/xml/tutorials/xmlintro/xmlintro.html
+

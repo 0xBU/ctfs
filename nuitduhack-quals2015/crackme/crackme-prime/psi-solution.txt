@@ -1,0 +1,3 @@
+Reads a 29 character string (essentially "aaaa-bbbb-cccc-dddd-eeee-ffff'), calls strtol on all of the values as hex, makes sure there are no nulls (which doesn't really matter because strtol will accept spaces just fine), then ensures each field is prime as well as (a+b+c+d+e)%f is also prime. First solution abused the strtol will take spaces as padding to put small integer values in it (2-2-2-2-3-2), but their web validator apparently wasn't running the same code. Lame. :-/
+
+Anyway, run a quick and dirty brute force in python to find valid solutions, there's plenty.

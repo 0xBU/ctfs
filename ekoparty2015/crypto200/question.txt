@@ -1,0 +1,8 @@
+XOR Crypter
+(cry200, solved by 160)
+
+
+Description: The state of art on encryption, can you defeat it?
+CjBPewYGc2gdD3RpMRNfdDcQX3UGGmhpBxZhYhFlfQA=
+
+Attachment: crypto200.zip

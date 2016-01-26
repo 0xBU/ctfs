@@ -1,0 +1,7 @@
+maze
+Description
+Capture the flag in the maze!
+telnet 210.71.253.213 8473
+
+Hint
+If you have found the flag but get wrong flag response ... read it carefully, or just pm admin.

@@ -1,0 +1,6 @@
+Crypto
+100Easy one
+Author: Daniel Sadyrin (cyberguru)
+Break my cipher and decrypt 	msg002.enc
+
+crypto100.zip

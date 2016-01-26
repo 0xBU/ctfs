@@ -1,0 +1,7 @@
+Poltergeist
+(misc300, solved by 1)
+
+
+Description: Our friend just sent us this message, can you tell us who is it?
+
+Attachment: misc300.zip

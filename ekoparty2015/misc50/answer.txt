@@ -1,0 +1,6 @@
+Extract VNC keydown events:
+
+tshark -n -r forensics.pcapng 'vnc.key_down == Yes'|awk '{print $8}'|tr '\n' ' '
+
+EKO{NOT_anym0re_VNC_hax}
+

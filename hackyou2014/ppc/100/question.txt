@@ -1,0 +1,6 @@
+PPC
+100Trash
+Author: hiruma
+Try to get the flag from this trash>
+
+ppc100.zip

@@ -1,0 +1,7 @@
+Custom ACL
+(web100, solved by 50)
+
+
+Description: This admin site is protected with a self-made ACL, find a way to get the acces!
+
+http://ctfchallenges.ctf.site:10000/ipfilter/admin.php

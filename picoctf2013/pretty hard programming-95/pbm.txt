@@ -1,0 +1,7 @@
+If you can guess the admin's password you can get a key
+Problem[1] - Source[2]
+
+Hint: Read the code very carefully, and figure out what each function call does 
+
+[1]https://2013.picoctf.com/problems/php1/
+[2]https://2013.picoctf.com/problems/php1/index.phps

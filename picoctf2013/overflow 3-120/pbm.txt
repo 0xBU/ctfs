@@ -1,0 +1,14 @@
+Stack overflows are the most basic binary exploitation technique, but they take a lot of skill to master. If you already know some C, these problems can help acquaint you with stacks and binary exploitation in general.
+
+Problem available on the shell machine in /problems/stack_overflow_3_28d8a442fb232c0c , downloadable here[1] with source here[2].
+
+If you solve the problem you will be able to read the key file by running
+
+    cat /problems/stack_overflow_3_28d8a442fb232c0c/key
+
+    on the PicoCTF shell machine.
+
+    Hint: objdump -d is a handy tool for this sort of thing. 
+
+    [1]https://2013.picoctf.com/problems/overflow3-28d8a442fb232c0c
+    [2]https://2013.picoctf.com/problems/overflow3-28d8a442fb232c0c.c

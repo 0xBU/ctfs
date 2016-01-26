@@ -1,0 +1,7 @@
+This is a compiled Java class file. It looks like it will accept a password, but only one. Can you find the password and control the planet?
+
+Download the class file here[1] or look on the shell machine in /problems/hotcoffee/
+Hint: It turns out Java can be decompiled...
+
+[1]https://2013.picoctf.com/problems/Crackme.class
+

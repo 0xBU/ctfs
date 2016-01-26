@@ -1,0 +1,8 @@
+Andrew
+red : 275
+
+we have an EXPERIMENTAL CDN based on nginx. It can optimize html, javascript, leetify text and rehost images. It is up at http://54.88.83.98/ flag is in /flag.txt
+
+http://bostonkeyparty.net/andrew.tar.gz.783d94b6f605cd987c7d311b7ed3893d
+
+

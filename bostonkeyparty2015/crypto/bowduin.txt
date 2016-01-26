@@ -1,0 +1,6 @@
+Bowdoin
+blue : 350
+
+You just found this 1024bit RSA key laying on the tracks. It seems to be damaged by trains and the rain. Can you still manage to use it to decrypt the flag.encrypted file?
+
+http://bostonkeyparty.net/foundkeys.tar.gz.ba016aae32c3d994d4eb08c325e692e6

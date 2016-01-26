@@ -1,0 +1,7 @@
+Big Momma Validated
+Steve programmed a service to authenticate him for administration purposes, take control... Ip: 54.217.202.218 Port: 3000
+
+Score
+200
+Link
+http://static.nuitduhack.com/annexes/bigmomma.tar

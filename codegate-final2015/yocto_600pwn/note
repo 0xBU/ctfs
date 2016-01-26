@@ -1,0 +1,26 @@
+This challenge is *not* trivially brute-forceable.
+
+Each connection requires both creating a SHA with 7 leading zeroes given some input,
+*as well as* solving a non-automatable captcha.
+
+You receive the hash input on one connection, and are given 5 minutes to 
+reconnect with the solution.
+
+Example:
+  Challenge: 
+    Gsm4KuopyQmX/O6eJGjXGu85E2b+GhkKqPaaIzwfxFI=
+  Generated input, challenge appended:
+    OP2zpH4p24/DW7k+bIxoyDsBVUDEuFvuK1s9alnp/N0aybgq6inJCZf87p4kaNca7zkTZv4aGQqo9pojPB/EUg==
+  Hash of generated input:
+    0000000b56082626211f9ef035f57157af21cdc4
+  Correct response:
+    OP2zpH4p24/DW7k+bIxoyDsBVUDEuFvuK1s9alnp/N0=
+
+On the second connection, you are given the captcha image and ~20 seconds
+to respond with the captcha solution and the SHA response.  Each new
+connection pair gives a new SHA challenge and captcha to solve.
+
+I've included some sample images of captchas in case people want to try
+automating them.
+
+There is a solution which does not require any brute-forcing.

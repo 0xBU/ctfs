@@ -1,0 +1,6 @@
+Rand DOOM
+(web400, solved by 33)
+
+
+Description: Do you think this password recovery is safe?
+http://ctfchallenges.ctf.site:10000/randoom/

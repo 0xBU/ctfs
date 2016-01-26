@@ -1,0 +1,4 @@
+Voting
+Author: Daniel Sadyrin (cyberguru)
+http://hackyou2014tasks.ctf.su:10080
+UPD after end: service source code (http://hackyou.ctf.su/files/disclosure/web100.tar.gz) database dump (http://hackyou.ctf.su/files/disclosure/web100_sql.txt)

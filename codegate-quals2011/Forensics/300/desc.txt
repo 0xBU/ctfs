@@ -1,0 +1,15 @@
+we are investigating the military secret's leaking.
+we found traffic with leaking secrets while monitoring the network.
+Security team was sent to investigate, immediately. But, there was no one present. 
+It was found by forensics team that all the leaked secrets were completely deleted by wiping tool.
+And the team has found a leaked trace using potable device.
+Before long, the suspect was detained. But he denies allegations.
+
+
+Now, the investigation is focused on potable device.
+The given files are acquired registry files from system.
+The estimated time of the incident is Mon, 21 February 2011 15:24:28(KST).
+Find a trace of portable device used for the incident.
+
+
+The Key : "Vendor name" + "volume name" + "serial number" (please write in capitals)

@@ -1,0 +1,24 @@
+qttpd
+Pwnable (950 pts)
+There are 3 (three) flags to be had at
+http://107.189.94.25 or
+http://107.189.94.255 or
+http://107.189.94.252 or
+http://107.189.94.253
+... good luck!
+
+
+Part 1 (200 pts)
+TeamPointsSubmission
+Cykor+22089 days ago
+The Cat is Number 12049 days 					ago
+PraetorianGs2029 days ago
+
+Part 2 (450 pts)
+No solvers yet. 
+
+Part 3 (300 pts)
+No solvers yet. 
+
+
+First stage binary extracted from file inclusion bug: qttpd.stripped

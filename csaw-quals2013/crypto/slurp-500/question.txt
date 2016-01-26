@@ -1,0 +1,6 @@
+slurp - 500 Points
+Solved by 27 teams.
+
+We've found the source to the Arstotzka spies rendevous server, we must find out their new vault key.
+slurp.py
+nc 128.238.66.222 7788

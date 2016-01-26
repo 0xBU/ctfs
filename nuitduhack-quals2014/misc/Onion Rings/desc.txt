@@ -1,0 +1,7 @@
+Onion Rings Validated
+A new black market has appeared and has been targeted by the FBI. After checking for suspicious posts on stackoverflow and finding nothing, they give up and are offering a bounty to anyone who can get information on the server that is hosting the hidden service.
+
+Score
+150
+Link
+http://mq72g4732yorslzf.onion/

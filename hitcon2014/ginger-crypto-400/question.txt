@@ -1,0 +1,7 @@
+ginger
+Description
+Are you lucky enough?
+nc 210.71.253.236 7979
+https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/ginger-350e951738280de084cf87d9070356e6.rb
+
+Hint

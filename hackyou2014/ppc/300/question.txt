@@ -1,0 +1,8 @@
+PPC
+300Captcha Breaker
+Author: Daniel Sadyrin (cyberguru)
+For robots only:
+
+http://hackyou2014tasks.ctf.su:30037/ppc300/
+
+UPD after end: service source code (http://hackyou.ctf.su/files/disclosure/ppc300.zip)

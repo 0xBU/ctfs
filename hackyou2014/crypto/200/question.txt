@@ -1,0 +1,8 @@
+Crypto
+200Hashme
+Author: Daniel Sadyrin (cyberguru)
+You challange is login with administrator role
+
+nc hackyou2014tasks.ctf.su 7777
+
+Source code: crypto200.py

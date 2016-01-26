@@ -1,0 +1,13 @@
+GreetingsEarthling
+25
+10 solves
+
+Forensics
+
+This challenge can be found in PwnAdventureZ
+
+-Vector35
+
+PwnAdventureZ_4dd76ae148461e47883790c3b56c7eae.zip
+
+

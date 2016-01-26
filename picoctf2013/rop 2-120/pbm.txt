@@ -1,0 +1,14 @@
+ROP is a classic technique for getting around address randomization and non-executable memory. This sequence will teach you the basics.
+
+Problem available on the shell machine in /problems/ROP_2_20f65dd0bcbe267d , downloadable here[1] with source here[2].
+
+If you solve the problem you will be able to read the key file by running
+
+    cat /problems/ROP_2_20f65dd0bcbe267d/key
+
+    on the PicoCTF shell machine
+
+    Hint: objdump -t can get you the address in memory of the string /bin/bash... and then you need to figure out how to pass it as an argument to a call to system somehow 
+
+    [1]https://2013.picoctf.com/problems/rop2-20f65dd0bcbe267d
+    [2]https://2013.picoctf.com/problems/rop2-20f65dd0bcbe267d.c

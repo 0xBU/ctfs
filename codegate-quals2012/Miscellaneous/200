@@ -1,0 +1,128 @@
+
+<!-- saved from url=(0044)http://1.234.41.4/misc/dlwptjdi/misc200.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>MISC #2</title>
+	<style>
+	blockquote.misc {
+		font: 12px/18px normal "Courier New", sans-serif;
+		padding-left: 70px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		background-color: #000;
+		color: white;
+		margin: 5px;
+		background-image: url(images/openquote5.gif);
+		background-position: middle left;
+		background-repeat: no-repeat;
+		width: 1000px;
+		height: 570px;
+		line-height: 2.3em;
+	}
+	blockquote.misc div {
+		padding-right: 50px;
+		display: block;
+		background-image: url(images/closequote5.gif);
+		background-repeat: no-repeat;
+		background-position: bottom right;
+	} 
+	table {
+		font: 12px/18px normal "Courier New", sans-serif;
+		width: 900px;
+		border: 1px solid #000;
+		border-width: 1px;
+		border-spacing: 2px;
+		border-style: outset;
+		border-color: #000;
+		border-collapse: separate;
+		background-color: #FFF;
+		text-align: center;
+	}
+	td {
+		border: 1px solid #000;
+		border-color: #000;
+	}
+	
+}
+	</style>
+</head>
+
+<body>
+<h2>MISC #2</h2>
+<blockquote class="misc">
+<div><span>
+<br>
+Alice wants to send a message to Bob in secure way. <br>
+Alice encrypted a plaintext P<sub>A</sub> = ¡°IMISSYOU¡± = 0x494D495353594F55 by using DES and obtained ciphertext C<sub>A</sub> = 0xFA26ED1833264435. <br>
+Alice sent the ciphertext C<sub>A</sub> and the secret key to Bob. 
+The secret key was encrypted by converting each of its letters to a pair of digits giving its position in the typewriter keyboard. 
+More precisely, the following table is used.
+<br><br>
+<table>
+<tbody><tr>
+	<td></td>
+	<td>1</td>
+	<td>2</td>
+	<td>3</td>
+	<td>4</td>
+	<td>5</td>
+	<td>6</td>
+	<td>7</td>
+	<td>8</td>
+	<td>9</td>
+	<td>0</td>
+</tr>
+<tr>
+	<td>1</td>
+	<td>Q</td>
+	<td>W</td>
+	<td>E</td>
+	<td>R</td>
+	<td>T</td>
+	<td>Y</td>
+	<td>U</td>
+	<td>I</td>
+	<td>O</td>
+	<td>P</td>
+</tr>
+<tr>
+	<td>2</td>
+	<td>A</td>
+	<td>S</td>
+	<td>D</td>
+	<td>F</td>
+	<td>G</td>
+	<td>H</td>
+	<td>J</td>
+	<td>K</td>
+	<td>L</td>
+	<td></td>
+</tr>
+<tr>
+	<td>3</td>
+	<td>Z</td>
+	<td>X</td>
+	<td>C</td>
+	<td>V</td>
+	<td>B</td>
+	<td>N</td>
+	<td>M</td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+</tbody></table>
+<br>
+In this manner, 'A' is converted to 21, 'B' to 35, etc. In transmission, all of the first digits were lost and the received secret key resulted in the pairs:
+<br>
+<p align="center">?8&nbsp;  ?9&nbsp;  ?9&nbsp;  ?4&nbsp;  ?3&nbsp;  ?5&nbsp;  ?9&nbsp;  ?5</p>
+After a few minutes, Bob recovered the secret key and smiled. Bob decided to reply in the same way. <br>
+Bob encrypts a plaintext P<sub>B</sub> = 0xB6B2B6ACACA6B0AA by using DES and obtained ciphertext C<sub>B</sub> = 0x05D912E7CCD9BBCA. <br>
+What is the secret key which Bob used? (0x????????????????) (Bob¡¯s secret key is different from Alice¡¯s secret key) 
+<br><br>
+Answer: strupr(????????????????)
+</span>
+</div>
+</blockquote>
+
+
+</body></html>

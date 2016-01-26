@@ -1,0 +1,6 @@
+Curious
+Crypto (70 pts)
+The curious case of the random e.
+
+We've captured [captured_a4ff19205b4a6b0a221111296439b9c7] the flag encrypted several times... do you think you can recover it?
+

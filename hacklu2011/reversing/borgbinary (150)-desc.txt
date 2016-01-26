@@ -1,0 +1,8 @@
+BorgBinary
+
+When the Borg invaded the earth they assimilated cryptographic hash functions. 
+But it occurres to you that they did not quite get the hang of their use in security.
+ Fortunately they use them in their docking-controll systems. Break in, steal the key, 
+and don't let them assimilate you. Resistance is not futile! 
+
+nc ctf.hack.lu 2022

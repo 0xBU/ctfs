@@ -1,0 +1,8 @@
+Weird Vigenere
+(cry100, solved by 30)
+
+
+Description: Crack it!
+
+Attachment: crypto100.zip
+

@@ -1,0 +1,9 @@
+MacBeth
+"I would challenge you to a battle of wits, but I see you are unarmed!" (S)
+
+Use your wits, play the parts, thou shall know the answer.
+
+Score
+350
+Link
+http://static.challs.nuitduhack.com/MacBeth.tar.gz

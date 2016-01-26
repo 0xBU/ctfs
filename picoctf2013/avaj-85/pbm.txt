@@ -1,0 +1,5 @@
+elif avaJ[1]
+
+Hint: You should consider using a java decompiler, such as jd-gui
+
+[1]https://2013.picoctf.com/problems/Crackme2.class

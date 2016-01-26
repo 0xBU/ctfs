@@ -1,0 +1,7 @@
+On the back of the broken panel you see a recovery manual[1]. You need to find the emergency repair key in order to put the robot into autoboot mode, but it appears to be ciphered using a Caesar cipher.
+
+Hint:You may want to check out the video on substitution ciphers[2].
+
+[1] https://2013.picoctf.com/autoproblems/tmpu0ETZ5.txt
+[2] https://2013.picoctf.com/learn
+

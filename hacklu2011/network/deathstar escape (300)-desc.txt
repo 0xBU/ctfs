@@ -1,0 +1,8 @@
+Deathstar Escape
+
+You are, Han Duo (Han Solo's not so well-known and misfortunate twin-brother) and want to 
+escape from The Terminal-Disease Star. The ambition to outperform your brother made you hire 
+an IT guy, to take care of your Trillenium Falcon. Turns out, he has installed some access 
+control to prevent stormtroopers meddling with your default desktop wallpaper (white dots on 
+a black background) Face your destiny: Escape the imperial troops! ...or do whatever 
+Han Dou's best at. netcat ctf.hack.lu 2007

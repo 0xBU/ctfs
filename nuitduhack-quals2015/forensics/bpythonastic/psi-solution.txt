@@ -1,0 +1,4 @@
+tar -zxvf Bpythonastic.tar.gz
+strings -a chall1.bin|grep '[^a-z]flag[^a-z]|head -n20
+
+Of course, the first time through we did it ithe hard way with volatility, actually pulling out all the relevent memory. Not really worth it. Just grep for "challenge" and "flag" in the original strings. D'oh.

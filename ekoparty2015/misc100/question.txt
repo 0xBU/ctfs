@@ -1,0 +1,9 @@
+Press it
+(misc100, solved by 53)
+
+
+Description: Recover the flag
+
+Attachment: misc100.zip
+
+

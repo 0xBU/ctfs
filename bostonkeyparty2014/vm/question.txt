@@ -1,0 +1,6 @@
+vm
+Reversing : 300
+
+this vm needs a license to run. we don't have the license!
+
+http://bostonkeyparty.net/challenges/vm-2fbed3f5a894d56be6b2ba328f9e2411

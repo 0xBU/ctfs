@@ -1,0 +1,7 @@
+This binary reversing challenge seems deceptively simple. Can you figure out the key that it accepts?
+
+Binary available on the shell machine in /problems/mildly_evil/ and available for download here[1]
+Hint: You probably want to reverse this dynamically, with a tool like gdb[2]
+
+[1]https://2013.picoctf.com/problems/mildly_evil
+[2]http://www.dirac.org/linux/gdb/

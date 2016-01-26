@@ -1,0 +1,528 @@
+body {
+	padding: 0 auto;
+	margin: 0 auto;
+	/*
+		font: 76% tahoma, verdana, sans-serif;
+		font: 75% sans-serif, verdana, sans-serif;
+	*/
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	color: #333;
+	line-height: 1.3em;
+	background:	#0C3A6D;
+	color: #303030;
+}
+
+#container {
+	padding: 0 auto;
+	margin: 0 auto;
+	width: 1000px;
+	padding: 5px 10px 10px 10px;
+	background: #ffffff; 
+	border: 1px solid #808080;
+}
+
+#header {
+	font-size: 3.1em;
+	color: #000000
+	height: 5px;
+	border: 0px solid #808080;
+	margin: 10px 10px 10px 10px;
+}
+
+#main {
+	background-color:#FFFFFF; 
+	border:0px solid #ccc; 
+	margin:10px, auto;
+	padding:10px; 
+	overflow:hidden; 
+}
+
+#bulletin {
+	float:left;
+	width:686px;
+	height:400px;
+	background-color:#f1f5f9;
+	border:1px solid #aecef5;
+	padding: 10px 10px 10px 10px;
+}
+
+#toplank {
+	height:400px;
+	background-color:#f1f5f9;
+	border:1px solid #aecef5;
+	margin:0 0 0 720px;
+	padding:10px 10px 10px 10px;
+}
+
+#notice {
+	float:left;
+	width:686px;
+	height:140px;
+	background-color:#f1f5f9;
+	border:1px solid #aecef5;
+	margin: 10px auto;
+	padding: 10px 10px 10px 10px;
+}
+
+#mylank {
+	height:140px;
+	background-color:#f1f5f9;
+	border:1px solid #aecef5;
+	margin:10px 0 0 720px;
+	padding:10px 10px 10px 10px;
+}
+
+
+#footer {
+	clear: both;
+	background: #fafafa;
+	color: #707070;
+	font-size: 0.9em;
+	padding: 8px 0 8px 0;
+	border-top: 1px solid #d0d0d0;
+	border-bottom: 1px solid #d0d0d0;
+	text-align: center;
+}
+
+#yutpage {
+	width:960px;
+	height:920px;
+	background-color:#f1f5f9;
+	border:1px solid #aecef5;
+	padding: 10px 10px 10px 10px;
+	margin: 10px auto;
+}
+
+#rulepage {
+	width:960px;
+	min-height:600px;
+	background-color:#f1f5f9;
+	border:1px solid #aecef5;
+	padding: 10px 10px 10px 10px;
+	margin: 10px auto;
+}
+
+#loginpage {
+ width:960px;
+ height:500px;
+ background-color:#f1f5f9;
+ border:1px solid #aecef5;
+ padding: 10px 10px 10px 10px;
+ margin: 10px auto;
+}
+
+#applypage {
+ width:960px;
+ min-height:500px;
+ background-color:#f1f5f9;
+ border:1px solid #aecef5;
+ padding: 10px 10px 10px 10px;
+ margin: 10px auto;
+}
+
+/* section title */
+#section_top1 {
+	float:left;
+	width:120px;
+	height:60px;
+	background: #f2f7c9 url(t_vulnerability.jpg) top center no-repeat;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding:2px 2px 2px 2px;
+	margin:0 0 0 8px;
+}
+#section_top2 {
+	float:left;
+	width:120px;
+	height:60px;
+	background: #f2f7c9 url(t_binary.jpg) top center no-repeat;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:0 0 0 13px;
+}
+#section_top3 {
+	float:left;
+	width:120px;
+	height:60px;
+	background: #f2f7c9 url(t_network.jpg) top center no-repeat;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:0 0 0 13px;
+}
+
+#section_top4 {
+	float:left;
+	width:120px;
+	height:60px;
+	background: #f2f7c9 url(t_forensics.jpg) top center no-repeat;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:0 0 0 13px;
+}
+
+#section_top5 {
+	float:left;
+	width:120px;
+	height:60px;
+	background: #f2f7c9 url(t_misc.jpg) top center no-repeat;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:0 0 0 13px;
+}
+
+
+/* forensics section */
+#section_forensics {
+	float:left;
+	width:120px;
+	height:320px;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:10px 0 0 10px;
+}
+#forensics_p1 {
+	float:top;
+	width:120px;
+	height:60px;
+}
+#forensics_p2 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#forensics_p3 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#forensics_p4 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#forensics_p5 {
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+
+
+/* vulnerability section */
+#section_vulnerab {
+	float:left;
+	width:120px;
+	height:320px;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:10px 0 0 10px;
+}
+#vulnerab_p1 {
+	float:top;
+	width:120px;
+	height:60px;
+}
+#vulnerab_p2 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#vulnerab_p3 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#vulnerab_p4 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#vulnerab_p5 {
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+
+/* binary section */
+#section_binary {
+	float:left;
+	width:120px;
+	height:320px;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:10px 0 0 13px;
+}
+#binary_p1 {
+	float:top;
+	width:120px;
+	height:60px;
+}
+#binary_p2 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#binary_p3 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#binary_p4 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#binary_p5 {
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+
+/* network section */
+#section_network {
+	float:left;
+	width:120px;
+	height:320px;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:10px 0 0 13px;
+}
+#network_p1 {
+	float:top;
+	width:120px;
+	height:60px;
+}
+#network_p2 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#network_p3 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#network_p4 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#network_p5 {
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+
+/* misc section */
+#section_misc {
+	float:left;
+	width:120px;
+	height:320px;
+	background-color:#d0d0d0;
+	border: 0px solid #000000;
+	padding: 2px 2px 2px 2px;
+	margin:10px 0 0 13px;
+}
+#misc_p1 {
+	float:top;
+	width:120px;
+	height:60px;
+}
+#misc_p2 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#misc_p3 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#misc_p4 {
+	float:top;
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+#misc_p5 {
+	width:120px;
+	height:60px;
+	margin:5px 0 0 0;
+}
+
+.fmenu {
+	color: #135cae;
+	font-size:10pt;
+	padding: 0 0 0 0;
+}
+
+.menulink {
+	color: #135cae;
+	text-align: center;
+	width: 100px;
+	padding: 3px 4px 3px 8px;
+	margin: 5px 10px 5px 0;
+}
+
+ol, ul, dl { 
+margin: 0 0 0 10px;
+padding: 0 0 0 10px;
+line-height: 1.5em;
+border: 0; }
+
+hr {
+	border: 0;
+	color: #d0d0d0;
+	background-color: #d0d0d0;
+	height: 1px;
+}
+
+a {
+	text-decoration: none;
+	color: #135cae;
+}
+	
+.zone_title {
+	color: #135cae;
+	font-size: 1.2em;
+	font-weight: bold;
+	border-bottom: 1px solid #135cae;
+}
+
+.page_title {
+	color: #135cae;
+	font-size: 1.4em;
+	font-weight: bold;
+	border-bottom: 1px solid #135cae;
+}
+
+.page_subtitle {
+	color: #135cae;
+	font-size: 1.1em;
+}
+
+.page_contents {
+	font-size: 1.1em;
+	line-height: 1.5em;
+	padding-left: 2px;
+}
+
+.ranking_content {
+	color: #135cae;
+	font-size: 1.5em;
+	padding: 0 0 0 0;
+	border-bottom: 1px solid #135cae;
+}
+
+.translink {
+	color: #ffffff;
+	text-align: center;
+	background: #135cae;
+	padding: 3px 4px 3px 8px;
+	margin: 5px 10px 5px 0;
+}
+
+.translink:hover {
+	background: #4595d0; 
+	text-decoration: none;
+}
+
+/* for top ranking */
+#toprank_1 td { 
+	text-indent:2px;
+	font-weight: bold;
+	color:#FFFFFF;
+	background-color:#e36c08;
+}
+
+#toprank_2 td { 
+	text-indent:2px;
+	font-weight: bold;
+	color:#FFFFFF;
+	background-color:#e68c41; 
+}
+
+#toprank_3 td { 
+	text-indent:2px;
+	font-weight: bold;
+	color:#FFFFFF;
+	background-color:#dfac81; 
+}
+
+#toprank_team {
+	text-indent:2px;
+}
+
+#myrank {
+ text-indent:2px;
+ font-weight: bold;
+ color:#FFFFFF;
+ background-color:#4595d0; 
+}
+
+
+h1 {
+	margin: 0 0 20px 0;
+	font-size: 2.0em;
+	font-weight: normal;
+}
+
+h2 {
+	margin: 0 0 20px 0;
+	font-size: 1.6em;
+	font-weight: normal;
+}
+
+h3 {
+	margin: 20px 0 10px 0;
+	font-size: 1.4em;
+	font-weight: normal;
+}
+
+p {
+	margin: 0 0 5px 0;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+a img {
+	border: 0;
+}
+
+.photo {
+	padding: 5px;
+	display: block;
+	margin: 0 auto 15px auto;
+	background-color: #f0f0f0;
+}
+
+.hide {
+	display: none;
+}
+

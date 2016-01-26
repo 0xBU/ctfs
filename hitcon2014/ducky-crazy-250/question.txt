@@ -1,0 +1,6 @@
+24
+Description
+Let's play a game!
+nc 210.65.89.59 2424
+
+Hint:

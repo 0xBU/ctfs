@@ -1,0 +1,4 @@
+We recorded the following communication[1] between two robots. Find out what evil things they are plotting, and recover their secret key!
+Hint: What are some famous encodings that only use two values? 
+
+[1]https://2013.picoctf.com/problems/robo.mp3

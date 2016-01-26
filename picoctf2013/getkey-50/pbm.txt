@@ -1,0 +1,5 @@
+There's bound to be a key on the spaceport's hidden website[1]
+
+Hint: Look very closely at the url and think about it a little
+
+[1]https://2013.picoctf.com/problems/getquery/index.php

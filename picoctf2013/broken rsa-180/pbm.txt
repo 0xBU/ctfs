@@ -1,0 +1,6 @@
+This RSA service[1] seems to be broken. They encrypt the flag and send it to you each time... but they throw out the private key and you never get to see it. Any ideas on how to recover the flag?
+
+Running on vuln.picoctf.com
+Hint: Connect from the shell with 'nc vuln.picoctf.com 6666'. Read up on RSA and try to figure out why this might be bad... Good luck! 
+
+[1]https://2013.picoctf.com/problems/broken_rsa_source.py

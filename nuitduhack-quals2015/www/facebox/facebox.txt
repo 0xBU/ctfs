@@ -1,0 +1,11 @@
+faceBox
+A shady company decided to write their own software for storing files in the cloud.
+
+"No no no, this is OUR filebox. We decline any responsability in the usage of our filebox. In any event your files get lost, trashed, stolen or spy on : it's your fault, not ours."
+
+You are investigating on the security of their cloud storage as it might have disastrous consequences if it were to get hacked by malicious actors.
+
+Score
+100
+Link
+http://prod.facebox.challs.nuitduhack.com/

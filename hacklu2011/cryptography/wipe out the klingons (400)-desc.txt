@@ -1,0 +1,8 @@
+Wipe out the Klingons
+
+We already made it. The evil Klingons agression is nearly fended. But their final mothership is well protected 
+and even sacrifing a huge number of battleships caused only minor damage. Spies told us an unclear message 
+caused most technical operators and the commander to leave the ship. Unfortunately we are unable to locate them. 
+We need your help to decrypt the secret message in order to blow these little bastards up. Due to our attacks 
+their RNG got damaged. Our mole reported us they use a manually chosen seed increased by one every time 
+as a workaround. nc ctf.hack.lu 2006

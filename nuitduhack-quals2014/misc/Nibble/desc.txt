@@ -1,0 +1,11 @@
+Nibble
+Check out our new chat server! We GUARANTEE that it is unhackable. Seriously.
+
+Ressources : http://static.nuitduhack.com/annexes/NibblesClient.tar.gz
+
+Target server IP address: 54.217.202.218
+
+Score
+600
+Link
+http://static.nuitduhack.com/annexes/NibbleServer

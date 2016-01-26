@@ -1,0 +1,159 @@
+Scoreboard PlaidCTF 2011 - All teams > 0
+
+Rank		Country	Team		Points
+==============================================
+1		Hacking For Soju	6864
+2		C.o.P			6543
+3		SSH			6230
+4		GoN			6024
+5		sutegoma2		5889
+6		Hates Irony		5848
+7		EpicFail		5454
+8		disekt			5207
+9		De Eindbazen		5024
+10		int3pids		4948
+11		Leet More		4755
+12		ACME Pharmaceuticals	4546
+13		+++			4398
+14		gn00bz			4303
+15		clgt			3820
+16		painsec			3769
+17		fluxfingers		3654
+18		RPISEC			3578
+19		WCSC			3302
+20		nibbles			3053
+21		LittleNuns		2851
+22		playtronics		2605
+23		Big-Daddy		2551
+24		As it were Antani	2445
+25		WildRide		2345
+26		MiT			2319
+27		parliament		2170
+28		Sur3x5F			2020
+29		choding			2020
+30		burnz0r			1995
+31		untitled		1850
+32		Zenk-Security		1845
+33		0xBeer			1659
+34		Rdot.Org		1558
+35		octahedron		1495
+36		Hacking Alpacas		1395
+37		us3ful id10ts		1349
+38		pentsec			1320
+39		We Test Pens		1245
+40		kknock			1196
+41		NULL Life		1195
+42		Tapz			1195
+43		CSG			1195
+44		pijemy w chuj		1120
+45		gungho			1082
+46		Robot Mafia		1070
+47		Brooklynt Overflow	1002
+48		RICTeam			995
+49		SecNoob			870
+50		UFOlogists		850
+51		BitOn			845
+52		GPF			845
+53		Bushwhackers		800
+54		Synapse & Darpa		695
+55		Graham's Crackers	695
+56		The On-Net Gang		645
+57		N0rthK0r34		645
+58		East Infection		625
+59		SeHwa in CERT-IS	570
+60		InDian0rang3s		520
+61		C.R.Y			520
+62		ic3burn			520
+63		kagure			500
+64		Left_RED		497
+65		kuics			445
+66		wwWKHaG			445
+67		peterPEN		396
+68		murlandia		395
+69		VXRL			395
+70		attack research		370
+71		trasnos			370
+72		Neohapsis		345
+73		KEVA Team		345
+74		0day			345
+75		X-N2O			301
+76		justmyself		270
+77		Actimel			270
+78		IQBalance		250
+79		WetPuppies		220
+80		Dolomite		200
+81		Lemon			170
+82		SecurityFirst with IU	170
+83		THD			150
+84		helloWorld		145
+85		pwningyetis		145
+86		TheResistance		120
+87		매번나오는이상한팀	120
+88		nemesis			120
+89		Koibasta		120
+90		靑春			120
+91		HitMen			120
+92		viktorkbtu		120
+93		AssA			120
+94		casper			120
+95		il0cal			120
+96		Tasteless		120
+97		ra			100
+98		InVaR			100
+99		Taiwan			100
+100		websters		100
+101		Honeypot		100
+102		HQS			95
+103		alone4242		45
+104		LesPapasPingouins	45
+105		!(C)			45
+106		qallups			45
+107		masa			45
+108		BIOS			45
+109		catsec			45
+110		Omni			45
+111		C.CR0W			45
+112		unkos			45
+113		weareplaying		45
+114		null			25
+115		noname			25
+116		loossy			25
+117		hust			25
+118		trololo			20
+119		@egis			20
+120		Charrua			20
+121		Neko			20
+122		HackTheLocal		20
+123		isg2011			20
+124		w3b0n3s			20
+125		Rav3n			20
+126		chap			20
+127		diin			20
+128		zaregoto		20
+129		MA_CHAN			20
+130		isg			20
+131		math			20
+132		nesuw			20
+133		ARGOS with SUZY		20
+134		Кира			20
+135		uhdols			20
+136		shall			20
+137		gkistg			20
+138		JuanEscobar		20
+139		administwitter		20
+140		Tester			20
+141		fuffateam		20
+142		igrus_old		20
+143		d7795			20
+144		3rr0r			20
+145		disegin			20
+146		megapork		20
+147		bigbear			20
+148		hackerlogin		20
+149		cat			20
+150		O1db0Y			20
+151		Solo			20
+152		l0ph3r			20
+153		Airwalk			20
+154		King of King		20
+155		ikoz			20

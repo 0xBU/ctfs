@@ -1,0 +1,6 @@
+There is no binary for this challenge.
+
+You are given a shell where you can only provide a command-line to the "man" 
+command.  No subshell expansion, redirection, environment, etc are available.
+You're just providing space-delimited input passed to execve.
+

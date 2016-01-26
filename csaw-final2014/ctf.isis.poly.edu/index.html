@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSAW CTF 2015</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/static/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.4.7/css/normalize.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.4.7/css/foundation.min.css" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/railscasts.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.5.1/moment.min.js"></script>
+</head>
+<body>
+    <nav class="top-bar" data-topbar>
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="https://csaw.engineering.nyu.edu/">CSAW</a></h1>
+        </li>
+        <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+      </ul>
+
+      <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            
+            <li class="has-form">
+              
+              <li><a href="/login">Login</a></li>
+              
+            </li>
+        </ul>
+
+        <!-- Left Nav Section -->
+        <ul class="left">
+	  <li><a href="/">Home</a></li>
+          
+            <li><a href="/rules">Rules</a></li>
+          
+          <li><a href="/judges">Judges</a></li>
+          <li><a href="/teams">Teams</a></li>
+          <li><a href="/scoreboard">Scoreboard</a></li>
+          <li><a href="/challenges">Challenges</a></li>
+          <li><a href="/statistics">Statistics</a></li>
+	  <li><a href="http://csaw.tv/">CSAW.TV</a></li>
+          <li class="has-dropdown">
+            <a href="#">Archives</a>
+              <ul class="dropdown">
+                  <li><a href="/static/archives/2014/index.html">CSAW CTF 2014</a></li>
+                  <li><a href="/static/archives/2013/index.html">CSAW CTF 2013</a></li>
+                  <li><a href="/static/archives/2012/index.html">CSAW CTF 2012</a></li>
+                  <li><a href="/static/archives/2011/index.html">CSAW CTF 2011</a></li>
+                  <li><a href="/static/archives/2010/index.html">CSAW CTF 2010</a></li>
+                  <li><a href="/static/archives/2009/index.html">CSAW CTF 2009</a></li>
+                  <li><a href="http://www.poly.edu/multimedia/photos/2009/11/csaw-2009-awards-day">2009 Photos</a></li>
+                  <li><a href="http://vimeo.com/8671084">2009 Video</a></li>
+                  <li><a href="/static/archives/2008/index.html">CSAW CTF 2008</a></li>
+                  <li><a href="/static/archives/2008/recap/index.html">2008 Recap</a></li>
+                  <li><a href="https://picasaweb.google.com/113764220897477492326/CyberSecurityAwarenessWeek2008">2008 Photos</a></li>
+                  <li><a href="/static/archives/2007/index.html">CSAW CTF 2007</a></li>
+                  <li><a href="https://isis.poly.edu/csaw/photos/">2007 Photos</a></li>
+                  </ul>
+              </ul>
+            </li>
+        </ul>
+      </section>
+    </nav>
+
+    	
+    <div class="text-center">
+      <img src="static/img/CSAW15LOGO_COLOR.png">
+      <h1>CSAW CTF 2015<br>Finals Round</h1>
+      <br>
+      <h3>November 12 (9PM EDT) - November 14 (9AM EDT)</h3>
+      <h3><a href="https://ctf.isis.poly.edu/teams">Finalists</a></h3>
+    </div>
+	<div class="row">
+    <hr id="divider">
+		<span class="large-4 columns">
+			<h2>Information</h2>
+			<p>Questions about CSAW CTF should be directed to csaw-ctf@isis.poly.edu</p>
+			<p>Questions about NYU School Of Engineering's Cyber Security Awareness Week should be directed to csaw@isis.poly.edu</p>
+		</span>
+        <span class="large-4 columns">
+          <h2>Mailing List</h2>
+          <p>To be notified of all updates about the competition, sign up for our <a href="https://isis.poly.edu/mailman/listinfo/csawctf">Mailing List</a>.</p>
+        </span>
+        <span class="large-4 columns">
+          <h2>IRC</h2>
+          <p>Join us on irc <a href="http://webchat.freenode.net/?channels=#isislab">#isislab</a> on freenode port 6667.</p>
+		</span>
+   </div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.4.7/js/vendor/jquery.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.4.7/js/vendor/modernizr.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.4.7/js/foundation.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.4.7/js/foundation/foundation.topbar.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-34624923-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+    
+</body>
+</html>

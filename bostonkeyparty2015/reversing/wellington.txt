@@ -1,0 +1,6 @@
+Wellington
+orange : 250
+
+If you had the code, you'd see that the program is calling `decrypt("[QeZag^VQZShWQgeWVQSe]ZW^^Q[`efWSV", X). Unfortunately, you don't have it, HAHAHAHAHAHA. Ho, and by the way, the flag ends with a dot.
+
+http://bostonkeyparty.net/troll_log.4643d195d55746aa180abf7144909677

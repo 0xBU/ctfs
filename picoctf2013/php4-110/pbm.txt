@@ -1,0 +1,7 @@
+It looks like our web administrators updated their MD5 code after the PHP3 fiasco. However, I still don't think they fixed all the bugs on this site[1].
+
+Can you show them what they did wrong by logging in again?
+
+Hint: They are still vulnerable to SQL injection. What can you do to make your code bypass all the checks? 
+
+[1]https://2013.picoctf.com/problems/php4/

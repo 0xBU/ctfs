@@ -1,0 +1,7 @@
+Reversing (100 pts)
+"It's a keygen problem" [clifford_fb9d383f537c803a82b5040e801785e0.elf]
+
+
+(This is the original binary [clifford_d4db798d82a284a63341055200f2502d.elf], it is 100% superseded by the new one and there is no reason you should look at it, but it is here for posterity. )
+
+

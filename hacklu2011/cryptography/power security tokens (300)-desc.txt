@@ -1,0 +1,7 @@
+Power Security Tokens
+
+Oh no, they did not just break their security tokens but also recorded a power trace of a signature generation ...
+
+trace.pkl
+
+Note: submission format is 0x123ABCD123DF...

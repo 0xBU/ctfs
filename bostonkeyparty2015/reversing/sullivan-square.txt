@@ -1,0 +1,7 @@
+Sullivan Square
+orange : 350
+
+We discovered this program in my old algorithms homeworks, can you help me remember the key? ruby version is rbx-2.5.2
+
+http://bostonkeyparty.net/trieharder.tar.gz.584eb2259dfcabe769faffa96b151020
+

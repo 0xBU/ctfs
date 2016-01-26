@@ -1,0 +1,10 @@
+ROP is a classic technique for getting around address randomization and non-executable memory. This sequence will teach you the basics.
+
+Problem available on the shell machine in /problems/ROP_1_fa6168f4d8eba0eb , downloadable here[1] with source here[2].
+
+If you solve the problem you will be able to read the key file by running
+    cat /problems/ROP_1_fa6168f4d8eba0eb/key
+on the PicoCTF shell machine
+
+[1]https://2013.picoctf.com/problems/rop1-fa6168f4d8eba0eb
+[2]https://2013.picoctf.com/problems/rop1-fa6168f4d8eba0eb.c

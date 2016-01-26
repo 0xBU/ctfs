@@ -1,0 +1,4 @@
+Forensics (30 pts)
+We recovered this file [unknown_2348c21020c876be4ae7d9eb19f8500a] from a nearby computer. Maybe you can tell us what it means?
+
+

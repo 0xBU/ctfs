@@ -1,0 +1,6 @@
+PPC
+200Play with me
+Author: Daniel Sadyrin (cyberguru)
+nc hackyou2014tasks.ctf.su 9876
+
+UPD after end: service source code (http://hackyou.ctf.su/files/disclosure/ppc200.py)

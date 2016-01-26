@@ -1,0 +1,6 @@
+You've gotten a partial dump of the disk[1] from the hangar's machine, and you're pretty sure the pilot's password is cleverly hidden somewhere within it...
+
+The disk image can be found on the shell machines at /problems/pilot_logic.img and the contents of the image are available in /problems/pilot_logic/
+Hint: Most filesystems have a way to hide files from being listed. How can you make ls ignore it? 
+
+[1]https://2013.picoctf.com/problems/pilot_image

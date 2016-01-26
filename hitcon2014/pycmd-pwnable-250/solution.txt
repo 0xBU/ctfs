@@ -1,0 +1,2 @@
+set p=|
+echo win %p% type c:\key.txt

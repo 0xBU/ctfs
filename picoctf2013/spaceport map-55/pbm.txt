@@ -1,0 +1,5 @@
+The map of the spaceport is hard to parse, but you're pretty sure there is some hidden information, somewhere...
+
+Hint: It looks like an animated GIF.[1]
+
+[1]http://en.wikipedia.org/wiki/Graphics_Interchange_Format

@@ -1,0 +1,6 @@
+Pass Check
+(web50, solved by 119)
+
+
+Description: There is something wrong with our pass validation, find it and get the flag.
+http://ctfchallenges.ctf.site:10000/passcheck/

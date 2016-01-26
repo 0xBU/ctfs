@@ -1,0 +1,13 @@
+A simple introduction to the format string family of vulnerabilities. These let you read and write memory in fantastic ways.
+
+Problem can be found in
+
+    /problems/format_1_d407f39cdf584627
+
+    on the shell machine, binary downloadable here[1] source here[2].
+
+    Hint: You should read up on format string vulnerabilities[3]. Also feel free to ask us for help! 
+
+    [1]https://2013.picoctf.com/problems/format1
+    [2]https://2013.picoctf.com/problems/format1.c
+    [3]http://www.infond.fr/2010/07/tutorial-exploitation-format-string.html

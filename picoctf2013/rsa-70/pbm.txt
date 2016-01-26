@@ -1,0 +1,7 @@
+Math is cool! Use the RSA algorithm to decode the secret message, c, p, q, and e are parameters for the RSA algorithm. Problem[1]
+
+Hint: This page[2] should tell you enough to figure the formulae out on this one. Then it's just math with very large numbers. 
+
+[1]https://2013.picoctf.com/problems/rsa.txt
+[2]http://en.wikipedia.org/wiki/RSA_%28cryptosystem%29
+

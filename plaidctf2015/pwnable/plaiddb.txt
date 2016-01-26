@@ -1,0 +1,6 @@
+Pwnable (550 pts)
+Exploit this database server [datastore_7e64104f876f0aa3f8330a409d9b9924.elf]
+
+Libc [libc_3f6aaa980b58f7c7590dee12d731e099.so.6]
+
+Running at 52.4.86.204 64613

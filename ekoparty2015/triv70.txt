@@ -1,0 +1,7 @@
+Banner
+(trv70, solved by 115)
+
+
+Description: Find the flag in our stand! (it works too if you are not at ekoparty)
+
+

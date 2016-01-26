@@ -1,0 +1,7 @@
+You want to find out the docking bay numbers for space ships that are ready to launch. Luckily for you, the website[1] for the docking bay ship status page doesn't seem so secure....
+
+Enter the docking bay for any of the ships that are awaiting launch.
+Hint: You know what's yummy? Cookies[1] are yummy. 
+
+[1]https://2013.picoctf.com/problems/yummy/
+[2]http://en.wikipedia.org/wiki/HTTP_cookie

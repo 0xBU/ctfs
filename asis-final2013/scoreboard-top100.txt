@@ -1,0 +1,101 @@
+#      Name Score
+1      StratumAuhuur 3555
+2      0x8F 3313
+3      Dragon Sector 3149
+4      blue-lotus 2841
+5      thecat 2350
+6      MMA 2342
+7      dcua 2190
+8      More Smoked Leet Chicken 2017
+9      ufologists 2014
+10     BatmansKitchen 2012
+11     aapje_olifantje2 1733
+12     itsgr 1652
+13     tasteless 1498
+14     w0pr 1354
+15     EpsilonDelta 1305
+16     DSST.Ir 1293
+17     pwnies 1289
+18     Pax.Mac Team 1281
+19     Nightingale 1242
+20     Glimpses of Grandeur 1189
+21     w3stormz 1178
+22     PiggyBird 1077
+23     Antichat 1027
+24     respina 976
+25     Hexpresso 934
+26     botbie 881
+27     CTF-infinit 879
+28     clgt 847,
+29     [_ + __Nagibator2004__ + _] 820,
+30     Magic-Hat 819
+31     Brooklynt_Overflow 768MB
+32     noob 751,
+33     h34dump 720,
+34     Honeypot Of 715
+35     movsx Of 715
+36     Geek 698,
+37     SegFault 694
+38     girav 693
+39     Baghali 597,
+40     keva 562
+41     torikabuto 562
+42     Delusions of Grandeur 562
+43     vnr 537
+44     RDot.Org Of 532
+45     KnightSec , 487
+46     Squareroots (486)
+47     BeLove (486)
+48     sigma , 462
+49     TRex 461,
+50     smokedbaconstripes 460,
+51     Green_Bats 460,
+52     LSE 410,
+53     Big-Daddy 384 people
+54     PantaRhei 384 people
+55     RooterX 384 people
+56     0xFACE8D 384 people
+57     redhat 354,
+58     team_playerz 335,
+59     sutegoma2 334
+60     sdss.pro 334
+61     reTEK 308,
+62     PentestACLs 283,
+63     sandbox 283,
+64     leftteam 227,
+65     KoiBastard 227,
+66     VXRL 209,
+67     coyote 208,
+68     VLTN 207,
+69     CSM.hB 207,
+70     kiscica 181,
+71     Abr1k0s 181,
+72     pumpernikiel 181,
+73     SecParty 181,
+74     jikimi 181,
+75     hority 180,
+76     NaVi 178,
+77     UI-CERT 156,
+78     MITP 156,
+79     ForbiddenBITS 156,
+80     angel_killah 156,
+81     OUC-ClpsSec 156,
+82     ikachan 151,
+83     cyb 151,
+84     herpderp 151,
+85     d1am0nd 151,
+86     ctfzombie 151,
+87     hyoub9un 126,
+88     your_kryptonite 106,
+89     notsoleet 105,
+90     TeamMSP 105,
+91     sec0d 105,
+92     Vegan Zombies 105,
+93     CryptoKnights 105,
+94     HighFive 105,
+95     aps 105,
+96     wasamusume 105,
+97     xbios 105,
+98     hazard 105,
+99     venkat119 105,
+100    failnof 105,

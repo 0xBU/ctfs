@@ -1,0 +1,7 @@
+Nightly Auth
+Your goal is to authenticate to the service Ip: 54.217.202.218 Port: 1337
+
+Score
+400
+Link
+http://static.nuitduhack.com/annexes/Nightlyauth.tar.gz

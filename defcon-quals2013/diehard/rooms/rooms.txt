@@ -1,0 +1,51 @@
+1000 
+You are standing at the start of your adventure. You will be tested on your ability to solve a set of riddles in the minimum amount of time possible.%r%rAs you glance around the room, you realize the problem you seek is to the north. To the west is a mysterious field.
+n 1001 w 1010
+1001
+You are standing in a long dark hallway. Rays of light flicker off the smooth surfaces around you.
+n 1002 s 1000
+1002
+The hallway narrows even further up ahead. The light is dimmer here then it was before.
+n 1003 s 1001
+1003
+You can barely manage to squeeze through the hallway. It is almost completely dark..
+n 1004 s 1002
+1004
+It is too dark to see what lies ahead in this room. You are moving now by feeling alone.
+n 1005 s 1003
+1005
+You have to crouch down to get by. All the surfaces are as smooth as glass to your touch. You have the urge to turn back.
+n 1006 s 1004
+1006
+You are feeling claustrophobic and lost in the dark. Every part of your instinct is now telling you to turn back.
+e 1007 s 1005
+1007
+The room is meandering now but you can only tell by touch not by sight. You must turn back now or fear you will be lost!
+n 1008 w 1006
+1008
+It is too dark to see. To narrow to move on! Turn back now!!!
+w 1009 s 1007
+1009
+Darkness.
+e 1008
+1010
+You find yourself standing in a lush grass field. There are geese at play in the field to the west.
+w 1011 e 1000
+1011
+You find yourself standing in a lush grass field. You hear the sounds of geese around you
+n 1012 w 1013 s 1014 e 1010
+1012
+You are in a lush grass field. The sounds of geese can be heard all around you.
+n 1013 w 1015 s 1011 e 1010
+1013
+The field is thicker now. The geese can be heard from every direction.
+s 1012 e 1011
+1014
+The field is thicker now. The geese can be heard from every direction.
+n 1011
+1015
+The field is at a densest point. There are geese at play here. You feel like chasing them.
+e 1012
+1016
+The field is at the densest point. There are geese at play here. You have a strong urge to chase them.
+n 1012

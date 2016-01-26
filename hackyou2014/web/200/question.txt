@@ -1,0 +1,7 @@
+Web
+200Snake
+Author: Daniel Sadyrin (cyberguru)
+Play the game and hack this!
+
+http://hackyou2014tasks.ctf.su:20080
+UPD after end: service source code (http://hackyou.ctf.su/files/disclosure/web200.tar) database dump (http://hackyou.ctf.su/files/disclosure/web200_sql.txt)

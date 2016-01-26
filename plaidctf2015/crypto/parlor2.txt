@@ -1,0 +1,8 @@
+Parlor2
+Crypto (375 pts)
+After going bankrupt last year, the folks behind parlor from last year have decided to set up a new betting service!
+
+Fixed Server [new_server_e947d2a6d0bddb87e690772fbb3fa196.py] running at 52.6.11.111
+
+(Old server with short recv, posted for posterity: 
+here [parlor2_43c40064516eeb628052fe1a8b4c1626.py])

@@ -1,0 +1,5 @@
+We found a small scout ship which could aid in your mission, but it is a RoboCorpIntergalactic product, and requires a serial number before you can use it. This serial verifier looks a lot like the one our robot used, but now the serial number needs to be 20 digits. Can you take a look[1] and find a valid serial number?
+Hint: They still teach you to solve systems of equations in math classes, right? 
+
+[1]https://2013.picoctf.com/problems/harder_serial.py
+

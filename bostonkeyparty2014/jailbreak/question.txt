@@ -1,0 +1,6 @@
+jailbreak
+Pwning 54.213.239.142 28468 : 400
+
+Exploit the console.
+
+http://bostonkeyparty.net/challenges/jailbreak-b0175164b087fe9175b222df8f9d6cf6

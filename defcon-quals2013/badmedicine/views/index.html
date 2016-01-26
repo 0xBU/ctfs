@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>badmedicine</title>
+  </head>
+  <body>
+    <h1>badmedicine</h1>
+    <div class='flash'>
+      {{ .flash }}
+    </div>
+    <form action='/login' method='post'>
+      <h2>login</h2>
+      <p id='username'>
+        <label>
+          Username:
+          <input name='username' type='text'>
+        </label>
+      </p>
+      <p id='submit'>
+        <button type='submit'>Log In</button>
+      </p>
+    </form>
+  </body>
+</html>

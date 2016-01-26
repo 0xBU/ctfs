@@ -1,0 +1,5 @@
+SCYTCRYPTO
+(cry50, solved by 202)
+
+
+Description: Decrypt this strange word: ERTKSOOTCMCHYRAFYLIPL

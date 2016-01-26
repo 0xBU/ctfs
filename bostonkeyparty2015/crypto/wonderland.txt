@@ -1,0 +1,6 @@
+Wonderland
+blue : 600
+
+Server is running at 54.86.168.156, port 40638. Find the flag! (UPDATE---there was a very, very slight change to server.py . Redownload to see it.)
+
+http://bostonkeyparty.net/wonderland.tar.gz.342682d9bc8b24c36fffb483f0e430c5

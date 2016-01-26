@@ -1,0 +1,4 @@
+Antique Space Shuttle
+
+Your command is to get as much information about the crew of an antique space shuttle. 
+We know our acient father used finger as reference point at nc ctf.hack.lu 2003

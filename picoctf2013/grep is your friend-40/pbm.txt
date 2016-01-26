@@ -1,0 +1,8 @@
+After plugging the robot into the computer, the robot asks for the name of a file containing the string SECRET AUTH CODE. You can find it using the command-line[1] interface in /problems/grep.tar or by downloading all of the files[2].
+
+Hint:Learning to use a command-line interface[3] can be very empowering!.
+
+[1]https://2013.picoctf.com/webshell
+[2]https://2013.picoctf.com/problems/grep.tar
+[3]http://www.davidbaumgold.com/tutorials/command-line/
+

@@ -1,0 +1,8 @@
+Crypto
+400CRYPTONET
+Author: Daniel Sadyrin (cyberguru)
+We have intercepted communication in a private network. It is used a strange protocol based on RSA cryptosystem.
+
+Can you still prove that it is not secure enough and get the flag?
+
+crypto400.zip

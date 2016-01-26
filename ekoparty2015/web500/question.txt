@@ -1,0 +1,6 @@
+SVG Viewer
+(web500, solved by 7)
+
+
+Description: Hackers love SVG, go and upload some of them!
+http://ctfchallenges.ctf.site:10001/svgviewer/

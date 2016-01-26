@@ -1,0 +1,6 @@
+PYCMD
+Description
+cmd.exe (/noexecute:alwaysoff)
+pwn 54.64.1.14 8361
+
+Hint

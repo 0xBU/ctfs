@@ -1,0 +1,2 @@
+Crypto (180 pts)
+My knapsack [handout_d20bf5aef611da40173a5004da72428c.tgz] brings all the boys to the yard, and they're like "that crypto is hard" (note: this flag is not in the flag{} format)

@@ -1,0 +1,7 @@
+Network
+100PCAP
+Author: Daniel Sadyrin (cyberguru)
+It gave me an expired flag! What a pity
+net100.pcap
+
+UPD after end: password check service source code (http://hackyou.ctf.su/files/disclosure/net100.php.txt)

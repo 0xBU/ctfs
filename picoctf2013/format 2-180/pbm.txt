@@ -1,0 +1,12 @@
+A simple introduction to the format string family of vulnerabilities. These let you read and write memory in fantastic ways.
+
+Problem can be found in
+
+    /problems/format_2_358e7afd8b3804d8
+
+    on the shell machine, binary downloadable here[1] source here[1].
+
+    Hint: The trick here is to overwrite one of the entries in the global offset table 
+
+    [1]https://2013.picoctf.com/problems/format2
+    [2]https://2013.picoctf.com/problems/format2.c

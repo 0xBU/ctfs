@@ -1,0 +1,6 @@
+Crazy JSON
+(web300, solved by 26)
+
+
+Description: A not so known language is used to compute the password, reverse it!
+http://ctfchallenges.ctf.site:10000/jzoned/

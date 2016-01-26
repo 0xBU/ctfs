@@ -1,0 +1,6 @@
+While refueling at a gas giant, you are hailed by a race of cuttlefish-people who dwell within it. Their transmission[1] is entirely visual; you suspect that they may be communicating through the color values.
+
+Hint: You may find this[2] useful. 
+
+[1]https://2013.picoctf.com/problems/steg.png
+[2]http://www.garykessler.net/library/steganography.html

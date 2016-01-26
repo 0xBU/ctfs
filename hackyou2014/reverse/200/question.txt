@@ -1,0 +1,4 @@
+Reverse
+200Newbie calculations
+Author: Mike Koveshnikov (Digita1)
+This file will calculationslculate a flag for you, but you have to wait

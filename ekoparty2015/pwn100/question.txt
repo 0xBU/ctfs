@@ -1,0 +1,8 @@
+Frecuency
+(pwn100, solved by 28)
+
+
+Description: Analyze the output
+nc ctfchallenges.ctf.site 50002
+
+Attachment: pwn100.zip

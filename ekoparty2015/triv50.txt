@@ -1,0 +1,5 @@
+Slogans
+(trv50, solved by 255)
+
+
+Description: EKO{ekopartyslogan2008_ekopartyslogan2009}

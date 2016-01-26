@@ -1,0 +1,3 @@
+Mr.A had a secret rendezvous with an old friend to acquire the flag.
+key format = md5(old friend's ip_source port_key)
+ex 127.0.0.1_12345_Key

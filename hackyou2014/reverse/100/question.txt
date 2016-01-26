@@ -1,0 +1,4 @@
+Reverse
+100NotEasyTask
+Author: Oleg Olshanskiy (Varsag)
+Crackme

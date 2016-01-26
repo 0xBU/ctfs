@@ -1,0 +1,7 @@
+Airport
+blue : 500
+
+The timing in this challenge is clearly not very realistic---but the methods you'll use here can be extended to real-world implementations of modular exponentiation. Server at 52.1.245.61 bostonkeyparty.net , port 1025. My solution takes a little while. Good luck.
+
+http://bostonkeyparty.net/airport.py.c8830782c42d5a14ac2efffa22a4eed1
+

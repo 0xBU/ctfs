@@ -1,0 +1,8 @@
+ You see the doors to the loading bay of the hangar, but they are locked. However, you are able to extract the password verification program from the control panel... Can you find the password to gain access to the loading bay?
+
+ Available in Python[1] or Java[2]
+ Hint: Have a look at this[3] for some good truth tables for bitops 
+
+ [1]https://2013.picoctf.com/problems/bit.py
+ [2]https://2013.picoctf.com/problems/Bit.java
+ [3]https://en.wikipedia.org/wiki/Bitwise_operation#Bitwise_operators

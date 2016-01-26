@@ -1,0 +1,6 @@
+While exploring an alien tomb, you find an ancient jpg of an ancient can of SPAM[1]. It seems valueless, but the guardbots really want it back, so perhaps there's something more here than meets the eye. Maybe it's cursed, or hexed, if you will?
+
+Hint: As the name of the problem might suggest, you should look into file carving[2] 
+
+[1]https://2013.picoctf.com/problems/spamcarver.jpg
+[2]http://en.wikipedia.org/wiki/File_carving

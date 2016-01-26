@@ -1,0 +1,6 @@
+We found this service[1] running on vuln.picoctf.com. Unfortunately the sensitive information such as the encryption keys, IV, and flag have all been deleted. Our cryptographic spies tell us it is still insecure, but we aren't sure how to send it commands. Do you think you can figure it out?
+Hint: Connect to the service using 'nc vuln.picoctf.com 4567'. You may find this reference on padding oracle attacks[2] helpful 
+
+[1]https://2013.picoctf.com/problems/cbc_server.py
+[2]www.skullsecurity.org/blog/2013/padding-oracle-attacks-in-depth
+

@@ -1,0 +1,7 @@
+ You have found a passwd file containing salted passwords. An unprotected configuration file has revealed a salt of 3639. The hashed password for the 'admin' user appears to be e156aeed773056041fd31821295d67f3, try to brute force this password.
+ 
+Hint: There are MD5 implementations[1] for every major programming language. If you don't know what a salt[2] is, don't worry, it's just a string appended to the password.
+
+
+[1]http://userpages.umbc.edu/~mabzug1/cs/md5/md5.html
+[2]http://en.wikipedia.org/wiki/Salt_%28cryptography%29

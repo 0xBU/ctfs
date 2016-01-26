@@ -1,0 +1,6 @@
+This robot looks... particularly evil. It seems like it only accepts one key, and if you find it, the robot will do your bidding. Can you find the valid key, and gain control over the robot?
+
+Download the binary here[1] or look on the shell machine in /problems/moreevil/
+Hint: Download IDA and stare at it for a few hours. It's a very difficult problem, and there aren't really any shortcuts... good luck 
+
+[1]https://2013.picoctf.com/problems/moreevil

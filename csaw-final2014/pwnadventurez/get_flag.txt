@@ -1,0 +1,13 @@
+get_flag
+400
+1 solves
+
+Pwnable
+
+This challenge can be found in PwnAdventureZ
+
+-Vector35
+
+PwnAdventureZ_4dd76ae148461e47883790c3b56c7eae.zip
+
+

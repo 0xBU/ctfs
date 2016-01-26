@@ -1,0 +1,7 @@
+Backdoor OS
+(rev500, solved by 2)
+
+
+Description: You have found something unusual on the operating system, is the user hidding something more? (yes, it is the same file as crypto300!)
+
+Attachment: crypto300.zip

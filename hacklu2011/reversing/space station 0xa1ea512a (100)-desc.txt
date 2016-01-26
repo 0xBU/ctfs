@@ -1,0 +1,8 @@
+Space Station 0xA1EA512A
+
+You have seen a deserted space station. Your task is to enter it. 
+The first barrier is the access system. But you can find a module with the application on it. 
+
+Here is the file: 
+
+What is the key? (There is also station B. Station B is the advanced one.)

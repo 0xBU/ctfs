@@ -1,0 +1,8 @@
+Reversing (250 pts)
+A tablespoon of reversing [cryptoserv_redacted_2023c925bef7a45a177122b18662b19f.elf], a dash of crypto [cryptoserv_9a13ae0c1436e3eaf6dbf6d84834108e.pcap], and three cups of love.
+
+Running at 52.4.141.125 4141
+
+Note that the binary you get is redacted version of the original (but, functionally equivalent).
+
+

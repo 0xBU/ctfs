@@ -1,0 +1,7 @@
+Private
+"The quiet you are, the more you are able to ear"
+
+Score
+100
+Link
+http://static.challs.nuitduhack.com/Private.tar.gz

@@ -1,0 +1,6 @@
+Life - 300 Points
+Solved by 212 teams.
+
+http://en.wikipedia.org/wiki/Conways_Game_of_Life
+nc 128.238.66.216 45678
+

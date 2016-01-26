@@ -1,0 +1,7 @@
+Titanoreine
+This week, a new image hosting website opened. The admin, afraid he might forget his access codes, created a file with credentials on the server. Your goal is to find the file to retrieve his password.
+
+Score
+300
+Link
+http://gallery.nuitduhack.com

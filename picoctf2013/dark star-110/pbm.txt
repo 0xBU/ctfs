@@ -1,0 +1,7 @@
+Sure are a lot of stars[1] out there... but there's a lot of empty space for things to hide in, too.
+
+The disk image can be found on the shell machines at /problems/dark_star.img and the contents of the image are available in /problems/dark_star/
+
+Hint: What have you used to find hidden files in easier forensics problems? 
+
+[1]https://2013.picoctf.com/problems/darkstar.img

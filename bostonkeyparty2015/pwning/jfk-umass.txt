@@ -1,0 +1,7 @@
+JFK/UMass
+red : 300
+
+Do not use /boot/System.map. It's obsolete! ssh jfk@54.152.92.112 password: jfk
+
+http://bostonkeyparty.net/jfk-021be4092f0a7ca86adf7393f7301c57
+

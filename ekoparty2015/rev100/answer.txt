@@ -1,0 +1,3 @@
+EKO{St4t1c_4n4lyS1s_randomstring1234}
+
+Using pintool as described here: http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/

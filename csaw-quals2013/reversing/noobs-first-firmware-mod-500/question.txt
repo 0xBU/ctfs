@@ -1,0 +1,5 @@
+Noobs First Firmware Mod - 500 Points
+Solved by 40 teams.
+
+N00b firmware modder says: "My first u-boot mod, there might be errors :("
+noobs-first-firmware-mod.tgz

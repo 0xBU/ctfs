@@ -1,0 +1,7 @@
+Malware
+(rev200, solved by 36)
+
+
+Description: Analyze the given malware and steal its info
+
+Attachment: rev200.zip

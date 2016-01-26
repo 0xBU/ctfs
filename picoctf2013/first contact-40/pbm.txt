@@ -1,0 +1,12 @@
+You notice that the indicator light near the robot’s antenna begins to blink. Perhaps the robot is connecting to a network? Using a wireless card and the network protocol analyzer Wireshark, you are able to create a PCAP file containing the packets sent over the network.
+
+You suspect that the robot is communicating with the crashed ship. Your goal is to find the location of the ship by inspecting the network traffic.
+
+You can perform the analysis online on Cloudshark[1] or you can download the PCAP file[2].
+
+Hint:It may help to learn a bit about network communication on the Internet and Wireshark[3].
+
+[1]www.cloudshark.org/captures/bc1c0a7fae2c
+[2]https://2013.picoctf.com/problems/first_contact.pcap
+[3]http://mediaplayer.pearsoncmg.com/_ph_cc_ecs_set.title.Introduction_to_Wireshark_and_HTTP__/aw/streaming/ecs_kurose_compnetw_6/wireshark_videonotes.m4v
+

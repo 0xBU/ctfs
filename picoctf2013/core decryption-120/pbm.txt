@@ -1,0 +1,4 @@
+In a ruined city on a forgotten world, you find a broken cogitator controlling access to the Vault. You have blueprints for the machine, and a stickynote attached to the monitor with the encrypted input. The machine seems to have crashed while decrypting, and generated a core dump, too. Maybe if you can get the encryption keys out of the core dump, you can decrypt the ciphertext and get the vault open... Files available for download here[1] on on the shell machine in /problems/core_decrypt.tar
+Hint: gdb can load and read core files 
+
+[1]https://2013.picoctf.com/problems/core_decrypt.tar
